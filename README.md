@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎵 Advanced Tag Editor
-### Enterprise Edition v7.6.0
+### Enterprise Edition v7.7.0
 
 **A professional-grade audio metadata editor built with Python and PySide6**
 
