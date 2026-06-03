@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎵 Advanced Tag Editor
-### Enterprise Edition v7.8.1
+### Enterprise Edition v8.0.0
 
 **A professional-grade audio metadata editor built with Python and PySide6**
 
@@ -23,11 +23,14 @@ Designed for audio archivists, music library managers, and audiophiles who need 
 ---
 
 ## Screenshots
-<img width="1365" height="767" alt="Screenshot 2026-05-31 194808" src="https://github.com/user-attachments/assets/8a89e199-7bbc-4c7f-a721-715339793789" />
+<img width="1365" height="767" alt="Screenshot 2026-06-03 185636" src="https://github.com/user-attachments/assets/906bc08b-e06a-4277-ba7c-357c27f242e2" />
 
-<img width="1365" height="767" alt="Screenshot 2026-05-31 194740" src="https://github.com/user-attachments/assets/73fafd06-5914-415c-a4f5-7e67365ee1e5" />
+<img width="1365" height="767" alt="Screenshot 2026-06-03 185730" src="https://github.com/user-attachments/assets/2208b813-e879-413e-84ac-e70f09fe8852" />
 
-<img width="1365" height="767" alt="Screenshot 2026-05-31 194825" src="https://github.com/user-attachments/assets/d920cee8-4f1f-42ef-bcc4-9fb2dc149f62" />
+<img width="1365" height="767" alt="Screenshot 2026-06-03 185649" src="https://github.com/user-attachments/assets/b2f28300-e831-44bf-85f7-86a7b02c3c8b" />
+
+
+
 
 
 
