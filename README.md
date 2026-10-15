@@ -9,6 +9,7 @@
 [![PySide6](https://img.shields.io/badge/PySide6-6.x-green?logo=qt&logoColor=white)](https://pypi.org/project/PySide6/)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com)
+![Rust](https://img.shields.io/badge/native%20engine-Rust-orange?style=flat-square)
 
 </div>
 
